@@ -1,5 +1,5 @@
 # Nombuso
 Project for HR recruitment data
 Candidate data
-Intervuew templates
+Interview templates
 Hiring notes
